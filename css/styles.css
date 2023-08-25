@@ -319,65 +319,69 @@ padding-bottom: 24px; */
 } */
 
 
-/* SECTION FORE */
+ /* SECTION FORE */
 
-.title-section-fore {
-    color: #2E2F42;
-    text-align: center;
-    font-size: 36px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    margin-bottom: 72px;
-}
+ .title-sectiosection-fore {
+     color: #2E2F42;
+     text-align: center;
+     font-size: 36px;
+     font-style: normal;
+     font-weight: 700;
+     line-height: 1.2;
+     letter-spacing: 0.02em;
+     text-transform: capitalize;
+     margin-bottom: 72px;
 
-.section-fore {
-    padding-top: 120px;
-    padding-bottom: 120px;
-}
+ }
 
-.portfolio-list {
-    display: flex;
-    flex-wrap: wrap;
-    column-gap: 24px;
-    row-gap: 48px;
-}
 
-.portfolio-list-item {
-    width: calc((100% - 48px) / 3);
-}
+ .section-fore {
+     padding-top: 120px;
+     padding-bottom: 120px;
 
-.title-section-fore {
-    color: #2E2F42;
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    margin-bottom: 8px;
-}
+ }
 
-.our-product {
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
 
-.our-product-div {
-    padding: 32px 16px;
-    border: 1px solid #e7e9fc;
-    border-top: none;
-    margin-bottom: 8px;
-}
+ .portfolio-list {
+     display: flex;
+     flex-wrap: wrap;
+     column-gap: 24px;
+     row-gap: 48px;
+ }
 
-/* FOOTER SECTION */
+ .portfolio-list-item {
+     width: calc((100% - 48px) / 3);
+ }
 
-.logo-studio-footer {
-    color: #f4f4fd;
-}
+ .title-section-fore {
+     color: #2E2F42;
+     font-size: 20px;
+     font-style: normal;
+     font-weight: 500;
+     line-height: 1.2;
+     letter-spacing: 0.02em;
+     margin-bottom: 8px
+ }
 
-.footer-logo {
+ .our-product {
+     line-height: 1.5;
+     letter-spacing: 0.02em;
+ }
+
+ .our-product-div {
+     padding: 32px 16px;
+     border: 1px solid #e7e9fc;
+     border-top: none;
+     margin-bottom: 8px;
+ }
+
+ /* FOOTER SECTION */
+
+ .logo-studio-footer {
+     color: #f4f4fd;
+ }
+
+ .footer-logo {
     color: #4d5ae5;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
@@ -386,24 +390,22 @@ padding-bottom: 24px; */
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    margin-bottom: 16px;
-}
-
-.footer-blok {
-    background-color: #2e2f42;
-    padding: 100px 0;
-}
-
-.div-footer {
     display: inline-block;
-}
+    margin-bottom: 16px;
+  }
 
-.footer-text {
-    color: #F4F4FD;
-    font-family: Roboto;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
+ .fotter-blok {
+     background-color: #2e2f42;
+     padding: 100px 0;
+ }
+ 
+
+ .footer-text {
+     color: #F4F4FD;
+     font-family: Roboto;
+     font-size: 16px;
+     font-style: normal;
+     font-weight: 400;
+     line-height: 1.5;
+     letter-spacing: 0.02em;
+ }
