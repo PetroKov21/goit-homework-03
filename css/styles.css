@@ -48,7 +48,7 @@ a {
  }
 
  .container {
-     display: flex;
+     /* display: flex; */
      width: 1158px;
      padding-left: 15px;
      padding-right: 15px;
@@ -321,7 +321,7 @@ padding-bottom: 24px; */
 
  /* .list-section-three {
     background-color: #FFFFFF
-} */
+} */ 
 
 
  /* SECTION FORE */
@@ -382,6 +382,8 @@ padding-bottom: 24px; */
  }
 
  /* FOOTER SECTION */
+
+    
  .footer-logo {
      display: inline-block;
      color: #4d5ae5;
