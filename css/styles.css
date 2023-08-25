@@ -321,7 +321,7 @@ padding-bottom: 24px; */
 
  /* SECTION FORE */
  .portfolio-list-item {
-    width: calc((100% - 48px) / 3);
+   width: calc((100% - 48px) / 3); 
 }
 
  .title-sectiosection-fore {
