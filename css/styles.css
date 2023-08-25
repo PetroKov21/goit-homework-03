@@ -214,13 +214,13 @@ flex-direction: row-reverse;
 }
 .benefits-list {
     display: flex;
-    column-gap: 24px;
+    gap: 24px;
 }
 .our-benefits-list {
     width: calc((100% - 72px) / 4);
 }
 .title-h-three-benefite {
-    padding-bottom: 8px;
+    margin-bottom: 8px;
 }
 
 .text-two {
@@ -246,14 +246,23 @@ flex-direction: row-reverse;
 
 .section-three {
     background-color: #F4F4FD;
+    padding: 120px 0;
 }
 .team-list {
     display: flex;
+    gap: 24px;
     background-color: #FFFFFF;
 }
 
 .our-time-list {
     width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px;
+
+}
+
+.hame-our-times {
+    padding: 32px 0;
+
 
 }
 
@@ -266,15 +275,21 @@ flex-direction: row-reverse;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    padding-top: 120px;
-    padding-bottom: 72px;
+    margin-bottom: 72px
 }
 
+.title-h-three-time {
+    text-align: center;
+    margin-bottom: 8px;
+
+}
 
 
 .description-services {
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-align: center;
+    margin-bottom: 8px;
 }
 
 /* .list-section-three {
