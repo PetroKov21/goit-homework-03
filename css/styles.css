@@ -6,9 +6,9 @@ body {
     width: 1440px;
     height: 3300px;
 }
-* {
+/* * {
     outline: 1px solid tomato;
-}
+} */
 
 /* GLOBALL STYLES */
 h1, h2, h3, h4, h5, h6, p {
@@ -47,6 +47,7 @@ padding-bottom: 24px; */
 .page-header {
     padding-top: 24px;
     padding-bottom: 24px;
+    border-bottom: 1px solid #e7e9fc
 }
 .page-header-container {
     display: flex;
@@ -62,7 +63,7 @@ max-width: 452px;
 }
 .navigation-menu {
     display: inline-flex;
-    column-gap: 40px;
+    gap: 40px;
 }
 /* style logo */
 .logo-studio-header {
@@ -79,7 +80,7 @@ max-width: 452px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    padding-right: 76px;
+    margin-right: 76px 
 }
 
 
@@ -98,6 +99,8 @@ max-width: 452px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    padding-top: 24px;
+    padding-bottom: 24px;
 
 }
 
