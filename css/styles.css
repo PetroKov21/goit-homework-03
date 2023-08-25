@@ -173,7 +173,7 @@ flex-direction: row-reverse;
     font-style: normal;
     font-weight: 700;
     line-height: 107.143%
-    letter-spacing: 1.12px;
+    letter-spacing: 1.12;
     max-width: 496px;
 }
 
@@ -299,6 +299,20 @@ flex-direction: row-reverse;
 
 /* SECTION FORE */
 
+.title-sectiosection-fore {
+    color: #2E2F42;
+    text-align: center;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    margin-bottom: 72px;
+
+}
+
+
 .section-fore {
     padding-top: 120px; 
     padding-bottom: 120px;
@@ -324,7 +338,7 @@ flex-direction: row-reverse;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    margin-bottom: 72px;
+    margin-bottom: 8px
 }
 
 .our-product {
