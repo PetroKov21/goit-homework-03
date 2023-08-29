@@ -193,14 +193,14 @@ padding-bottom: 24px; */
      margin-left: auto;
      margin-right: auto;
      color: var(--white, #FFF);
-     /* Header 1 */
+     
      font-family: Roboto;
      font-size: 56px;
      font-style: normal;
      font-weight: 700;
      line-height: 1.07;
      letter-spacing: 1.12;
-     max-width: 496px;
+     max-width: 496px; 
  }
 
 
